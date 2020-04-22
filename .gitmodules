@@ -1,0 +1,4 @@
+[submodule "bi_picking_analytic"]
+	path = bi_picking_analytic
+	url = git@github.com:viernes/bi_picking_analytic.git
+	branch = master
