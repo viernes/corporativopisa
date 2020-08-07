@@ -2,3 +2,8 @@
 	path = bi_picking_analytic
 	url = git@github.com:viernes/bi_picking_analytic.git
 	branch = master
+
+[submodule "custom_report_mate"]
+	path = custom_report_mate
+	url = git@github.com:viernes/custom_report_mate.git
+	branch = master
